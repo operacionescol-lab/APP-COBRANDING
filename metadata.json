@@ -1,0 +1,6 @@
+{
+  "name": "NavisRENET - Gestión Náutica Flota Cartagena",
+  "description": "Sistema náutico de gestión operativa, documental DIMAR, control de salidas con código SITMAR, perfiles de tripulación y planillas MOP-CHARTER-001 para Catamarán Cartagena y María del Puerto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
